@@ -1,0 +1,18 @@
+{
+    "name": "peterbeater4168/flags",
+    "description": "flags library",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "PeterBeater4168",
+            "email": "4168@htl.rennweg.at"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "peterbeater4168\\flaggen\\": "src/"
+        }
+    },
+    "require": {}
+}
