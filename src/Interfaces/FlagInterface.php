@@ -7,7 +7,7 @@
  */
 
 
-namespace webtechnik\flaggen\Interfaces;
+namespace peterbeater4168\flaggen\Interfaces;
 
 
 interface FlagInterface

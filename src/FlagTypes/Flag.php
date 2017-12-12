@@ -6,7 +6,7 @@
  * Time: 09:03
  */
 
-namespace webtechnik\flaggen\FlagTypes;
+namespace peterbeater4168\flaggen\FlagTypes;
 abstract class Flag {
 
     /*

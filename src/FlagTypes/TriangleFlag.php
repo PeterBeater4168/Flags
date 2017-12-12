@@ -6,10 +6,10 @@
  * Time: 08:59
  */
 
-namespace webtechnik\flaggen;
+namespace peterbeater4168\flaggen;
 require_once "Flag.php";
 require_once "..\Interfaces\FlagInterface.php";
-use webtechnik\flaggen\Interfaces as inter;
+use peterbeater4168\flaggen\Interfaces as inter;
 
 class TriangleFlag extends Flag implements inter\FlagInterface
 {
